@@ -57,21 +57,6 @@
 - `INFO: Successfully Started experiment!` 메시지가 커맨드라인 창에 출력되면 성공적으로 시작된 것
 - 표시된 Web UI URL을 웹 브라우저에 입력하여 접속
 
-### 실행결과
-
-- 설정대로 실행됨(자세한 내용은 차후에 기록할 예정), 총 10번의 트라이얼 수행, 49분 소요
-- Web UI `Overview`
-
-    ![Microsoft%20NNi/_2020-03-02__6.50.44.png](Microsoft%20NNi/_2020-03-02__6.50.44.png)
-
-- Web UI `Trials detail → Hyper-Parameter`
-
-    ![Microsoft%20NNi/_2020-03-02__6.51.40.png](Microsoft%20NNi/_2020-03-02__6.51.40.png)
-
-- 실행 후 체크포인트 등 결과파일 생성(디렉토리만 출력)
-
-![Microsoft%20NNi/_2020-03-02__6.58.26.png](Microsoft%20NNi/_2020-03-02__6.58.26.png)
-
 ### 참고문서
 
 - [NNI 공식문서](https://nni.readthedocs.io/en/latest/index.html)
