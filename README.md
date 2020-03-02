@@ -52,8 +52,6 @@
 
         nnictl create --config nni/examples/trials/mnist-tfv2/config.yml
 
-    ![Microsoft%20NNi/_2020-03-02__5.55.51.png](Microsoft%20NNi/_2020-03-02__5.55.51.png)
-
 - `INFO: Successfully Started experiment!` 메시지가 커맨드라인 창에 출력되면 성공적으로 시작된 것
 - 표시된 Web UI URL을 웹 브라우저에 입력하여 접속
 
